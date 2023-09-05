@@ -9169,12 +9169,12 @@ Shop Filter Mobile
     margin-top: 0 !important;
   }
 
-  .bg-cta {
+  /* .bg-cta {
     background-image: url(./../assets/images/Home/cta-bg.png);
     background-position: left !important;
     background-size: cover;
     background-repeat: no-repeat;
-  }
+  } */
 
   .home-bnr {
     padding: 0;
@@ -9473,12 +9473,12 @@ Shop Filter Mobile
   height: 50px;
 }
 
-.bg-cta {
+/* .bg-cta {
   background-image: url(./../assets/images/Home/cta-bg.png);
   background-position:right;
   background-size: cover;
   background-repeat: no-repeat;
-}
+} */
 
 .timeline {
   list-style: none;

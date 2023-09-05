@@ -73,11 +73,11 @@ const SliderHome = forwardRef((props, ref) => {
     ],
   };
 
-  const slider1 = useRef();
+  // const slider1 = useRef();
 
-  const handleNextSlide = () => {
-    slider1.current.slickNext();
-  };
+  // const handleNextSlide = () => {
+  //   slider1.current.slickNext();
+  // };
 
   return (
     <>
@@ -96,6 +96,7 @@ const SliderHome = forwardRef((props, ref) => {
                   </div>
                 </div>
               ))}
+              
             </Slider>
           </div>
         </div>

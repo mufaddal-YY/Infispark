@@ -156,7 +156,7 @@ const WhyChoose = () => {
               activeKey={activeIndex === index ? "0" : null}>
               <Accordion.Item eventKey="0" className="bg-white">
                 <Accordion.Header
-                  className="accordion-header"
+                  className="accordion-header "
                   onClick={() => handleClick(index)}>
                   <div className="d-flex justify-content">
                     <div>
